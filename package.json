@@ -1,0 +1,15 @@
+{
+  "name": "paw-some-city",
+  "version": "1.0.0",
+  "description": "A pet friendly city project",
+  "main": "PetFriendlyCity.html",
+  "scripts": {
+    "dev": "live-server --port=3000 --open=PetFriendlyCity.html",
+    "start": "live-server --port=3000 --open=PetFriendlyCity.html"
+  },
+  "devDependencies": {
+    "live-server": "^1.2.1"
+  },
+  "author": "",
+  "license": "ISC"
+}
